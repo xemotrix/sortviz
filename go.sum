@@ -1,0 +1,6 @@
+github.com/veandco/go-sdl2 v0.4.34 h1:dqbUhV/SSJ35grdYTLv3iVxtO1NzNmgzMV//hyCyypY=
+github.com/veandco/go-sdl2 v0.4.34/go.mod h1:OROqMhHD43nT4/i9crJukyVecjPNYYuCofep6SNiAjY=
+github.com/xemotrix/gocgl v0.0.0-20230422151952-a623293f275e h1:kmzerKx8Y1JAm/NpBJmHiKCCQrN1zNli1zbUn6SA5ig=
+github.com/xemotrix/gocgl v0.0.0-20230422151952-a623293f275e/go.mod h1:HKtAJ91+4b/gLzalnwXOxKnPaSe2nmGRyqBMd+eO+O4=
+golang.org/x/exp v0.0.0-20230420155640-133eef4313cb h1:rhjz/8Mbfa8xROFiH+MQphmAmgqRM0bOMnytznhWEXk=
+golang.org/x/exp v0.0.0-20230420155640-133eef4313cb/go.mod h1:V1LtkGg67GoY2N1AnLN78QLrzxkLyJw7RJb1gzOOz9w=
